@@ -13,3 +13,4 @@ if(count == 2)
 else{
     console.log("It is not a prime Number");
 }
+console.log("conflict solved")
